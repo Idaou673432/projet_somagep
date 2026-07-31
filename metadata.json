@@ -1,0 +1,6 @@
+{
+  "name": "SOMAGEP Fuites",
+  "description": "Application de gestion et de signalement des fuites de tuyaux et robinets SOMAGEP au Mali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
